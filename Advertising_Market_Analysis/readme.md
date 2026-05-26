@@ -1,5 +1,3 @@
----
-
 #  Advertising Campaign Performance Analysis
 
 This project also includes a Power BI dashboard to analyze advertising campaign performance across different marketing channels such as Google Ads, Facebook Ads, and LinkedIn.
